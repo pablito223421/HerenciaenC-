@@ -1,0 +1,15 @@
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\bin\Debug\net6.0\ClasesenCsharp.exe
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\bin\Debug\net6.0\ClasesenCsharp.deps.json
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\bin\Debug\net6.0\ClasesenCsharp.runtimeconfig.json
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\bin\Debug\net6.0\ClasesenCsharp.dll
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\bin\Debug\net6.0\ClasesenCsharp.pdb
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.csproj.AssemblyReference.cache
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.AssemblyInfoInputs.cache
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.AssemblyInfo.cs
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.dll
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\refint\ClasesenCsharp.dll
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.pdb
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ClasesenCsharp.genruntimeconfig.cache
+C:\Users\Bienvenido\source\repos\ClasesenCsharp\ClasesenCsharp\obj\Debug\net6.0\ref\ClasesenCsharp.dll
